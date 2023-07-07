@@ -51,7 +51,7 @@ while True:
         break
 
     try:
-        action = input("What kind of action do you want to take? ")
+        action = input("What kind of action do you want to take? (withdrawal/deposit) ")
     except KeyboardInterrupt:
         
         try:
@@ -59,7 +59,7 @@ while True:
             if delete == "y":
                 import os
                 file = 'transaction.txt'  
-                location = "D:\Programare\web_dev\Python\Python301"
+                location = "D:\Programare\web_dev\Python\Python301\FinalProject"
                 path = os.path.join(location, file)  
                 os.remove(path)
         except FileNotFoundError:
