@@ -7,7 +7,7 @@ I've tried to do this in educational scope. Thanks to Kalob ,  I really like Pyt
 ### Rules and details:
 * All you have to do is answer the qestion
 * Please, pay attention to the spelling. It can cause you problems
-* If you want to quit just press "ctrl + c" or on make "Command + ." or "Command + c"
+* If you want to quit just press "ctrl + c" or on mac "Command + ." or "Command + c"
 * Good lack!!!
 
 ### Setup
